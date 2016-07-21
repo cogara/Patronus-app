@@ -1,3 +1,7 @@
+-- Copy query below for assignment to work.
+
+CREATE DATABASE patronusassigner;
+
 CREATE TABLE patronuses (
     id serial PRIMARY KEY,
     patronus_name varchar(20)
